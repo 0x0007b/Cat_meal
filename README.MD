@@ -10,7 +10,6 @@ PC resolution:<br>
 1280x680<br>
 Phone:<br>
 Samsung S20 Ultra<br>
-Pixel 5<br>
 Tablets:<br>
 Apple mini & Air
 <h2>
