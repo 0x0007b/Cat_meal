@@ -5,7 +5,9 @@ Made by Vladislav Skrynnikov
 layout resolution 1280x680
 
 <h2>Device support:<br>
-PC<br>
+PC resolution:<br>
+1920x1080<br>
+1280x680<br>
 Phone:<br>
 Samsung S20 Ultra<br>
 Pixel 5<br>
